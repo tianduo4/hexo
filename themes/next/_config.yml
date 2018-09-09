@@ -128,8 +128,8 @@ scheme: Mist
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/tianduo4 || github
-  ¼òÊé: https://www.jianshu.com/u/dace9a674610 || book
-  Blog: https://www.zhenziren.com || rotate-right
+  ç®€ä¹¦: https://www.jianshu.com/u/dace9a674610 || book
+  Blog: http://www.zhenziren.com || rotate-right
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -151,8 +151,8 @@ links_title: Links
 #links_layout: block
 links_layout: inline
 links:
-  À´Ô´ÖĞ¹ú: https://www.oschina.net/
-  ¾ò½ğ: https://juejin.im/
+  ç®€ä¹¦: https://www.oschina.net/
+  Â¾Ã²Â½Ã°: https://juejin.im/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -245,7 +245,7 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment: ¼á³ÖÔ­´´¼¼Êõ·ÖÏí£¬ÄúµÄÖ§³Ö½«¹ÄÀøÎÒ¼ÌĞø´´×÷£¡
+reward_comment: åšæŒåŸåˆ›æŠ€æœ¯åˆ†äº«ï¼Œæ‚¨çš„æ”¯æŒå°†é¼“åŠ±æˆ‘ç»§ç»­åˆ›ä½œï¼
 wechatpay: /images/WechatPay.jpg
 alipay: /images/AliPay.jpg
 #bitcoin: /images/bitcoin.png
